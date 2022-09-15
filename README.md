@@ -7,3 +7,5 @@ between two virtual flows.
 * PositionPropertyBinding - binds the positionProperty() of the two flows
 * ScrollBarPropertiesBinding - binds several properties of the two vertical scrollbars found in the virtual flows
 * ScrollToMethods - uses a computational approach and the scrollTo() method to adjust the left-hand side after changes made to the right-hand side
+
+![Screenshot](screenshot.png "Screenshot")
